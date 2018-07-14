@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTechDevelopers", "implemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTechDevelpers.Utilities.Assembly", "implementation\NTechDevelpers.Utilities.Assembly\NTechDevelpers.Utilities.Assembly.csproj", "{BC4D020B-0E61-4A86-8134-B76DD2E56F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTechDevelpers.Utilities", "implementation\NTechDevelpers.Utilities\NTechDevelpers.Utilities.csproj", "{F36E60E1-FAEE-40C1-9112-3E1FE4E83ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BC4D020B-0E61-4A86-8134-B76DD2E56F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4D020B-0E61-4A86-8134-B76DD2E56F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4D020B-0E61-4A86-8134-B76DD2E56F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36E60E1-FAEE-40C1-9112-3E1FE4E83ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36E60E1-FAEE-40C1-9112-3E1FE4E83ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36E60E1-FAEE-40C1-9112-3E1FE4E83ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36E60E1-FAEE-40C1-9112-3E1FE4E83ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
