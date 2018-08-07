@@ -1,14 +1,14 @@
-﻿using Common.Logging;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace NTechDevelpers.Utilities
+﻿namespace NTechDevelpers.Utilities
 {
+    using Common.Logging;
+    using System;
+    using System.IO;
+    using System.Linq;
+    using System.Runtime.InteropServices;
+
+    /// <summary>
+    /// The FileUtils class
+    /// </summary>
     public static class FileUtils
     {
         /// <summary>

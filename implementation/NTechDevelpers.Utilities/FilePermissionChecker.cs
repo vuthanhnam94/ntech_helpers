@@ -1,10 +1,10 @@
-﻿using System.IO;
-using System.Linq;
-using System.Security.AccessControl;
-using Common.Logging;
-
-namespace NTechDevelpers.Utilities
+﻿namespace NTechDevelpers.Utilities
 {
+    using System.IO;
+    using System.Linq;
+    using System.Security.AccessControl;
+    using Common.Logging;
+
     /// <summary>
     /// File permission checker.
     /// </summary>
